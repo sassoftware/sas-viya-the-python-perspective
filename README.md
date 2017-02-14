@@ -1,8 +1,7 @@
 
 # SAS Viya: The Python Perspective
 
-Kevin D Smith
-Xiangxiang Meng
+Kevin D Smith & Xiangxiang Meng
 
 This project contains the sample code for the book *SAS Viya: The Python
 Perspective*.  All examples are in the form of
