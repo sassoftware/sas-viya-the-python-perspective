@@ -3,6 +3,8 @@
 
 Kevin D Smith & Xiangxiang Meng
 
+<img src='cover.jpg' style='float:left' />
+
 This project contains the sample code for the book *SAS Viya: The Python
 Perspective*.  All examples are in the form of
 [Jupyter notebooks](http://jupyter.org).
