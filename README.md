@@ -48,11 +48,11 @@ learning, but it is also useful as a desktop reference.
 
 ## Details
 
-- *Epub* ISBN# 978-1-62960-883-9
-- *Mobi* ISBN# 978-1-62960-884-6
-- *PDF* ISBN# 978-1-62960-885-3
-- *Hardcopy* ISBN# 978-1-62960-276-9
-- *Pages* 306
+* *Epub* ISBN# 978-1-62960-883-9
+* *Mobi* ISBN# 978-1-62960-884-6
+* *PDF* ISBN# 978-1-62960-885-3
+* *Hardcopy* ISBN# 978-1-62960-276-9
+* *Pages* 306
 
 - [Book Excerpt](https://www.sas.com/storefront/aux/en/splcpython/69194_excerpt.pdf)
 - [Table of Contents](https://www.sas.com/storefront/aux/en/splcpython/69194_toc.pdf)
